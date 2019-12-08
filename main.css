@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+  margin:4em;
+  max-width:43em;
+  font-family:"Nimbus Roman No9 L","FreeSerif","Times New Roman",Times,serif;
+}
+
+p{
+  font-size:1.1em;
+  line-height:1.2;
+}
+
+a:link {
+  color:darkred;
+}
+a:visited {
+  color:darkred;
+}
+a:hover {
+  color:red;
+}
