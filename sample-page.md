@@ -7,5 +7,7 @@ Most of my sites include a page with a list of links to sites that I often visit
 [Daring Fireball](https://daringfireball.net/)  
 [Github](https://github.com/)
 
+Although you cannot readily see the two spaces following the Daring Fireball link, those spaces are the markdown syntax to insert a br tag in the generated html page.
+
 [1]: https://daringfireball.net/projects/markdown/syntax
 
