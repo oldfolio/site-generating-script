@@ -5,9 +5,10 @@ I have always loved Carlos Fenollosa's [bashblog script][1], but since I do not 
 Most of my sites include a page with a list of links to sites that I often visit:
 
 [Daring Fireball](https://daringfireball.net/)  
-[Github](https://github.com/)
+[Github](https://github.com/)  
+[Teknik.io](https://teknik.io/)
 
-Although you cannot readily see the two spaces following the Daring Fireball link, those spaces are the markdown syntax to insert a br tag in the generated html page. 
+Although you cannot readily see the two spaces following the Daring Fireball and Github links, those spaces are the markdown syntax to insert a br tag in the generated html page. 
 
 [1]: https://github.com/cfenollosa/bashblog/
 [2]: https://daringfireball.net/projects/markdown/syntax
